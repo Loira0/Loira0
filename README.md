@@ -1,115 +1,106 @@
-<!-- README.md - Perfil Gustavo -->
-
-<h1 align="center">👋 Olá, eu sou o Gustavo</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00A8E8&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full+Stack;Foco+em+Front-end;Apaixonado+por+Automação+e+Design;Sempre+em+Evolução+💡" alt="Typing SVG">
-</p>
-
----
-
-### 🧠 Sobre mim
-
-Sou **Desenvolvedor Full Stack** com foco em **Front-end**, apaixonado por transformar ideias em produtos digitais com **design limpo, performance e usabilidade**.  
-Atuo criando **dashboards inteligentes**, **sistemas de acompanhamento financeiro** e **soluções personalizadas** que conectam **dados, automação e experiência do usuário**.
-
-✨ Sempre busco unir **lógica + estética**, criando interfaces que **simplificam o complexo**.
-
----
-
-### 🚀 Tecnologias que uso
-
 <div align="center">
 
-#### 💻 Front-end  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&style=for-the-badge)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Gustavo&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 
-#### ⚙️ Back-end  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge)
-![Express](https://img.shields.io/badge/-Express.js-000000?logo=express&style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge)
+<br/>
 
-#### 🧰 Outros  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge)
-![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoftexcel&logoColor=white&style=for-the-badge)
+<img src="https://readme-typing-svg.herokuapp.com?size=24&color=36BCF7&center=true&vCenter=true&width=800&lines=Desenvolvedor+Full+Stack;Criador+de+Sistemas+Escaláveis;Apaixonado+por+UX%2C+Performance+e+Automação" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=gustavo&style=for-the-badge&color=0f2027" />
 
 </div>
 
 ---
 
-### 🎯 Minhas metas
+## 👨‍💻 Sobre mim
 
-- 🔹 Evoluir como desenvolvedor **criando soluções completas** e escaláveis.  
-- 🔹 Aprofundar em **arquitetura de software e design inteligente**.  
-- 🔹 Conectar tecnologia a **negócios e automação de resultados**.  
-- 🔹 Expandir **networking** com profissionais e empresas que valorizam inovação.  
+Sou **desenvolvedor Full Stack**, focado na criação de **sistemas modernos, performáticos e prontos para produção**.  
+Tenho experiência com **SaaS, automações, dashboards, APIs e soluções empresariais**, sempre buscando **qualidade, escalabilidade e boa experiência do usuário**.
 
 ---
 
-### 🌟 Projetos em destaque
-
-| 💡 Projeto | 📝 Descrição | 🔗 Link |
-|-------------|--------------|--------|
-| **Dashboard Financeiro** | Painel completo com estatísticas de pagamentos, metas e acompanhamento em tempo real. | [🔗 Ver projeto](#) |
-| **Gestão de Pessoas - Controle HB** | Sistema com visual moderno e acesso personalizado por operador. | [🔗 Ver projeto](#) |
-| **Resultados Versuo** | Dashboard com metas, HB Puro/Colchão e total de recebimentos. | [🔗 Ver projeto](#) |
-
-> 🧩 *Quer ver mais? Confira meus repositórios fixados abaixo!*
-
----
-
-### 🧩 Curiosidades
-
-- 🔭 Atualmente desenvolvendo **ferramentas de automação de cobrança e performance**.  
-- ⚡ Adoro criar **interfaces intuitivas** com **React + Tailwind**.  
-- 📈 Sempre buscando **melhorar experiência e performance** dos meus sistemas.  
-
----
-
-### 🌐 Contato e redes
-
-<p align="center">
-  <a href="mailto:seuemail@exemplo.com">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://linkedin.com/in/seunome">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/seunome">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://seusite.com">
-    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfólio">
-  </a>
-</p>
-
----
-
-### ⚙️ Estatísticas
+## 🧠 Stack Principal
 
 <div align="center">
 
-![Gustavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seunome&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seunome&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://skillicons.dev/icons?i=react,typescript,nodejs,python,tailwind,postgres,docker,git&theme=dark" />
 
 </div>
 
 ---
 
-### ✨ “Código é arte com propósito.”
+## 🚀 O que eu faço
 
-<p align="center">
-  <img src="https://github.com/seunome/seunome/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+- 🖥️ Desenvolvimento de sistemas web completos  
+- 📊 Dashboards e relatórios inteligentes  
+- 🤖 Automação de processos e bots  
+- 🔐 APIs seguras e escaláveis  
+- 🎨 Interfaces modernas e profissionais  
 
-<p align="center">
-  <b>Se curtiu meu trabalho, vamos conversar!</b> 💬  
-  Estou sempre aberto a trocar ideias sobre tecnologia, projetos e inovação.
-</p>
+---
+
+## 📈 Estatísticas do GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavo&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🏆 Conquistas
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=gustavo&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
+
+---
+
+## 🌐 Onde me encontrar
+
+<div align="center">
+
+<a href="https://github.com/gustavo">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://www.linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:seuemail@email.com">
+<img src="https://img.shields.io/badge/E--mail-0078D4?style=for-the-badge&logo=microsoft-outlook" />
+</a>
+
+</div>
+
+---
+
+## 🧩 Projetos em Destaque
+
+- 🚀 **Sistemas SaaS completos**
+- 📊 **Dashboards corporativos**
+- 🤖 **Bots e automações inteligentes**
+- 🔗 **APIs REST e integrações**
+
+---
+
+## ✨ Frase que me define
+
+> *"Código limpo, sistemas escaláveis e experiências que fazem sentido."*
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
+
+⭐ *Se curtiu meu perfil, fica à vontade para acompanhar meus projetos!*
+
+</div>
