@@ -11,7 +11,7 @@
 <br/><br/>
 
 <!-- VISUALIZAÇÕES -->
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO_GITHUB&style=for-the-badge&color=0f2027" />
+<img src="https://komarev.com/ghpvc/?username=Loira0&style=for-the-badge&color=0f2027" />
 
 </div>
 
