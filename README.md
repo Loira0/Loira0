@@ -1,37 +1,32 @@
 <div align="center">
 
-<!-- HEADER CYBER PREMIUM -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f1a,50:0f172a,100:020617&height=220&section=header&text=Gustavo&fontSize=42&fontColor=38bdf8&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20SaaS%20|%20Automations&descSize=18&descAlignY=65" />
+<!-- HEADER CYBER PREMIUM CLEAN -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0f172a,100:020617&height=220&section=header&text=Gustavo&fontSize=42&fontColor=38bdf8&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20SaaS%20|%20Automation&descSize=18&descAlignY=65" />
 
 <br/>
 
-<!-- TEXTO ANIMADO -->
-<img src="https://readme-typing-svg.herokuapp.com?size=22&color=38bdf8&center=true&vCenter=true&width=900&lines=Desenvolvedor+Full+Stack+orientado+a+produto;Experi%C3%AAncia+com+SaaS+e+sistemas+empresariais;Foco+em+qualidade%2C+escala+e+impacto+real" />
+<img src="https://readme-typing-svg.herokuapp.com?size=22&color=38bdf8&center=true&vCenter=true&width=900&lines=Desenvolvimento+orientado+a+produto;Sistemas+pensados+para+escala+e+manuten%C3%A7%C3%A3o;Decis%C3%B5es+t%C3%A9cnicas+com+impacto+real" />
 
 <br/><br/>
 
-<!-- VISUALIZAÇÕES -->
 <img src="https://komarev.com/ghpvc/?username=Loira0&style=for-the-badge&color=020617" />
 
 </div>
 
 ---
 
-## 👨‍💼 Perfil Profissional
+## Perfil
 
-Desenvolvedor **Full Stack** com foco em **entrega de valor para o negócio**.  
-Atuo na construção de **produtos digitais, SaaS e sistemas internos**, sempre priorizando:
+Desenvolvedor **Full Stack** com foco em **engenharia aplicada ao negócio**.  
+Atuo na construção de **produtos digitais, SaaS e sistemas internos**, acompanhando todo o ciclo:
 
-- Arquitetura limpa e escalável  
-- Código legível e manutenível  
-- Performance, segurança e UX  
-- Soluções pensadas para **uso real em produção**
+> arquitetura → implementação → evolução → manutenção
 
-Tenho facilidade em entender regras de negócio e transformar requisitos em **sistemas sólidos e confiáveis**.
+Priorizo **decisões técnicas conscientes**, código sustentável e soluções pensadas para **uso real em produção**.
 
 ---
 
-## 🧠 Stack Técnica Principal
+## Stack Técnica
 
 <div align="center">
 
@@ -41,29 +36,39 @@ Tenho facilidade em entender regras de negócio e transformar requisitos em **si
 
 ---
 
-## 🏗️ Especialidades
+## Atuação Técnica
 
-- **Sistemas Web Full Stack (Front + Back)**
-- **SaaS e plataformas multiusuário**
-- **Dashboards gerenciais e financeiros**
-- **APIs REST seguras e bem documentadas**
-- **Automação de processos e integrações**
-- **Refatoração e evolução de sistemas legados**
+- Desenvolvimento **Full Stack (Front + Back)**
+- Arquitetura de **SaaS e sistemas multiusuário**
+- APIs REST com foco em **segurança e escalabilidade**
+- Dashboards e sistemas de apoio à decisão
+- Automação de processos e integrações
+- Evolução e refatoração de sistemas existentes
 
 ---
 
-## 📊 Estatísticas do GitHub
+## Forma de Trabalho
+
+- Código versionado com histórico claro
+- Estruturas pensadas para crescimento
+- Atenção a performance e confiabilidade
+- Padrões consistentes e manutenção previsível
+- Comunicação técnica objetiva
+
+---
+
+## Estatísticas do GitHub
 
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Loira0&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loira0&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 🏆 Reconhecimento Técnico
+## Reconhecimento Técnico
 
 <div align="center">
 
@@ -73,18 +78,7 @@ Tenho facilidade em entender regras de negócio e transformar requisitos em **si
 
 ---
 
-## 📌 O que um recrutador pode esperar de mim
-
-✔️ Código organizado e versionado  
-✔️ Compromisso com prazos e qualidade  
-✔️ Visão de produto, não só de código  
-✔️ Comunicação clara e objetiva  
-✔️ Capacidade de evoluir sistemas existentes  
-✔️ Mentalidade de dono  
-
----
-
-## 🌐 Contato Profissional
+## Contato Profissional
 
 <div align="center">
 
@@ -104,17 +98,10 @@ Tenho facilidade em entender regras de negócio e transformar requisitos em **si
 
 ---
 
-## 🧭 Objetivo Profissional
-
-Atuar em projetos desafiadores onde **engenharia de software, produto e negócio** caminhem juntos, contribuindo com **soluções robustas, escaláveis e bem construídas**.
-
----
-
 <div align="center">
 
-<!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0f172a,100:0b0f1a&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0f172a,100:020617&height=120&section=footer" />
 
-💼 **Aberto a oportunidades profissionais**
+Aberto a oportunidades onde **engenharia, produto e impacto** caminhem juntos.
 
 </div>
