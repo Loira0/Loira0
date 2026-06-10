@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f172a,100:0369a1&height=230&section=header&text=Gustavo%20Henrique&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Full%20Stack%20Junior&descSize=18&descAlignY=55" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f172a,100:0369a1&height=230&section=header&text=Gustavo%20Henrique&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Automation%20%7C%20Data%20%7C%20Dashboards&descSize=17&descAlignY=55" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=Desenvolvimento+Web+com+foco+em+clareza+e+evolu%C3%A7%C3%A3o;HTML+%7C+CSS+%7C+JavaScript+%7C+PHP+%7C+Kotlin;Git%2C+GitHub+e+boas+pr%C3%A1ticas+de+versionamento;Construindo+solu%C3%A7%C3%B5es+em+projetos+privados+e+profissionais" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=950&lines=Automa%C3%A7%C3%A3o+de+processos+e+opera%C3%A7%C3%B5es+escal%C3%A1veis;Dashboards+gerenciais%2C+BI+e+an%C3%A1lise+de+dados;React%2C+TypeScript%2C+SQL%2C+APIs+e+integra%C3%A7%C3%B5es;Solu%C3%A7%C3%B5es+para+cobran%C3%A7a+e+recupera%C3%A7%C3%A3o+de+cr%C3%A9dito" />
 
 <br /><br />
 
@@ -19,11 +19,13 @@
 
 ## Sobre mim
 
-Sou **Gustavo Henrique**, desenvolvedor **Full Stack Junior**, com foco em criar aplicações web organizadas, funcionais e fáceis de manter.
+Sou **Gustavo Henrique**, desenvolvedor de software com foco em **automação, análise de dados, dashboards gerenciais** e soluções para **operações de cobrança e recuperação de crédito**.
 
-Grande parte dos meus estudos e entregas acontece em **projetos privados**, por isso meu GitHub público funciona como uma vitrine objetiva da minha evolução, stack, forma de trabalho e presença profissional.
+Atuo no desenvolvimento de **sistemas internos, integrações, painéis analíticos** e ferramentas voltadas para aumento de produtividade operacional. Tenho experiência na construção de dashboards em **React**, manipulação de grandes volumes de dados, consultas **SQL**, automações de processos e integração entre diferentes plataformas.
 
-Tenho interesse em desenvolvimento web, back-end, automação, boas práticas com Git e construção de sistemas que resolvem problemas reais.
+Grande parte das minhas entregas acontece em **projetos privados e ambientes corporativos**, por isso este GitHub funciona como uma vitrine profissional da minha stack, áreas de atuação e forma de pensar soluções.
+
+Tenho forte interesse em **arquitetura de sistemas, inteligência artificial aplicada a negócios, automação de atendimento, prospecção automatizada** e desenvolvimento de ferramentas que transformam processos manuais em operações escaláveis.
 
 ---
 
@@ -31,45 +33,57 @@ Tenho interesse em desenvolvimento web, back-end, automação, boas práticas co
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,kotlin,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,ts,js,php,kotlin,postgres,mysql,git,github&theme=dark" />
 
 </div>
 
 ---
 
-## Tecnologias e práticas
+## Principais competências
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&logoColor=38bdf8" />
-<img src="https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css3&logoColor=38bdf8" />
+<img src="https://img.shields.io/badge/React.js-0f172a?style=for-the-badge&logo=react&logoColor=38bdf8" />
 <img src="https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=38bdf8" />
+<img src="https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=38bdf8" />
 <img src="https://img.shields.io/badge/PHP-0f172a?style=for-the-badge&logo=php&logoColor=38bdf8" />
 <img src="https://img.shields.io/badge/Kotlin-0f172a?style=for-the-badge&logo=kotlin&logoColor=38bdf8" />
+<img src="https://img.shields.io/badge/SQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=38bdf8" />
 <img src="https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=38bdf8" />
+<img src="https://img.shields.io/badge/APIs%20e%20Integra%C3%A7%C3%B5es-0f172a?style=for-the-badge&logo=fastapi&logoColor=38bdf8" />
+<img src="https://img.shields.io/badge/Dashboards%20e%20BI-0f172a?style=for-the-badge&logo=powerbi&logoColor=38bdf8" />
+<img src="https://img.shields.io/badge/Automa%C3%A7%C3%A3o-0f172a?style=for-the-badge&logo=n8n&logoColor=38bdf8" />
+<img src="https://img.shields.io/badge/IA%20Aplicada-0f172a?style=for-the-badge&logo=openai&logoColor=38bdf8" />
 
 </div>
 
 ---
 
-## Como eu trabalho
+## O que eu desenvolvo
 
-- Escrevo código com foco em **organização, leitura e manutenção**
-- Uso **Git e GitHub** para versionamento e histórico de evolução
-- Busco entender o problema antes de implementar a solução
-- Tenho atenção a estrutura, responsividade e experiência do usuário
-- Evoluo meus conhecimentos com prática constante em projetos privados
+- Dashboards operacionais e gerenciais com foco em **indicadores, KPIs e tomada de decisão**
+- Sistemas internos para **cobrança, CRM, gestão de carteiras e recuperação de crédito**
+- Automações para reduzir processos manuais e aumentar produtividade operacional
+- Integrações entre plataformas, APIs, bancos de dados e ferramentas corporativas
+- Rotinas de análise, tratamento, validação e processamento de dados
+- Ferramentas com inteligência artificial aplicada a atendimento, prospecção e operação
 
 ---
 
-## Áreas de interesse
+## Áreas de atuação
 
-- Desenvolvimento **Full Stack**
-- Aplicações web responsivas
-- Back-end com PHP
-- Desenvolvimento com Kotlin
-- Automação de processos
-- Integrações e sistemas internos
+- **Business Intelligence (BI)** e dashboards analíticos
+- Sistemas de cobrança e recuperação de crédito
+- CRM, gestão de carteiras e monitoramento de performance
+- Automação de prospecção e atendimento
+- Integrações corporativas e processamento de dados
+- Engenharia de prompt e inteligência artificial aplicada a negócios
+
+---
+
+## Objetivo
+
+Desenvolver soluções inteligentes que simplifiquem processos complexos, aumentem a eficiência operacional e transformem dados em informações estratégicas para tomada de decisão.
 
 ---
 
@@ -102,6 +116,6 @@ Tenho interesse em desenvolvimento web, back-end, automação, boas práticas co
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0369a1,55:0f172a,100:020617&height=130&section=footer" />
 
-<strong>Aprendendo, construindo e evoluindo uma entrega por vez.</strong>
+<strong>Transformando dados, processos e operações em soluções escaláveis.</strong>
 
 </div>
