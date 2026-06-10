@@ -129,6 +129,21 @@ Projeto criado com dados fictícios para demonstrar construção de ferramentas 
 
 </div>
 
+### [AI Collection Assistant](https://github.com/Loira0/ai-collection-assistant)
+
+Assistente inteligente para **classificação de mensagens, priorização de atendimento, análise de sentimento, sugestão de resposta e apoio a operações de cobrança com IA aplicada**.
+
+Projeto criado com dados fictícios para demonstrar engenharia de prompt, guardrails, automação de atendimento e construção de interfaces para decisões operacionais assistidas por IA.
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/React-020617?style=for-the-badge&logo=react&logoColor=a78bfa" />
+<img src="https://img.shields.io/badge/TypeScript-020617?style=for-the-badge&logo=typescript&logoColor=a78bfa" />
+<img src="https://img.shields.io/badge/AI%20Applied-020617?style=for-the-badge&logo=openai&logoColor=a78bfa" />
+<img src="https://img.shields.io/badge/Prompt%20Ops-020617?style=for-the-badge&logo=googlegemini&logoColor=a78bfa" />
+
+</div>
+
 ---
 
 ## Contato
