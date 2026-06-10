@@ -1,15 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:111827,100:0f172a&height=180&section=header&text=Gustavo%20Henrique&fontSize=38&fontColor=38bdf8&animation=fadeIn&desc=Desenvolvedor%20Full%20Stack%20Junior&descSize=18&descAlignY=65" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f172a,100:0369a1&height=230&section=header&text=Gustavo%20Henrique&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Full%20Stack%20Junior&descSize=18&descAlignY=55" />
 
-<br />
-
-<img src="https://readme-typing-svg.herokuapp.com?size=20&color=38bdf8&center=true&vCenter=true&width=850&lines=Construindo+projetos+com+HTML%2C+CSS%2C+JavaScript%2C+PHP+e+Kotlin;Aprendendo+todos+os+dias+e+evoluindo+com+projetos+reais;Foco+em+c%C3%B3digo+organizado%2C+Git+e+boas+pr%C3%A1ticas" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=Desenvolvimento+Web+com+foco+em+clareza+e+evolu%C3%A7%C3%A3o;HTML+%7C+CSS+%7C+JavaScript+%7C+PHP+%7C+Kotlin;Git%2C+GitHub+e+boas+pr%C3%A1ticas+de+versionamento;Construindo+solu%C3%A7%C3%B5es+em+projetos+privados+e+profissionais" />
 
 <br /><br />
 
 <a href="https://github.com/Loira0">
-  <img src="https://komarev.com/ghpvc/?username=Loira0&style=for-the-badge&color=0f172a" />
+  <img src="https://komarev.com/ghpvc/?username=Loira0&style=for-the-badge&color=0f172a&label=VISITAS+NO+PERFIL" />
+</a>
+<a href="https://www.linkedin.com/in/gustavohlsouza/">
+  <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=38bdf8" />
 </a>
 
 </div>
@@ -18,15 +19,15 @@
 
 ## Sobre mim
 
-Sou **Gustavo Henrique**, desenvolvedor **Full Stack Junior** em evolução constante.
+Sou **Gustavo Henrique**, desenvolvedor **Full Stack Junior**, com foco em criar aplicações web organizadas, funcionais e fáceis de manter.
 
-Tenho interesse em construir aplicações web bem organizadas, com código claro, versionamento correto e atenção à experiência de quem usa o sistema. Atualmente estudo e pratico tecnologias como **HTML, CSS, JavaScript, PHP, Kotlin, Git e GitHub**.
+Grande parte dos meus estudos e entregas acontece em **projetos privados**, por isso meu GitHub público funciona como uma vitrine objetiva da minha evolução, stack, forma de trabalho e presença profissional.
 
-Meu objetivo é crescer como desenvolvedor criando projetos cada vez mais completos, documentados e próximos de problemas reais.
+Tenho interesse em desenvolvimento web, back-end, automação, boas práticas com Git e construção de sistemas que resolvem problemas reais.
 
 ---
 
-## Tecnologias
+## Stack principal
 
 <div align="center">
 
@@ -36,36 +37,54 @@ Meu objetivo é crescer como desenvolvedor criando projetos cada vez mais comple
 
 ---
 
-## O que estou desenvolvendo
+## Tecnologias e práticas
 
-- Projetos web com **HTML, CSS e JavaScript**
-- Fundamentos de **back-end com PHP**
-- Estudos e práticas com **Kotlin**
-- Organização de repositórios com **Git e GitHub**
-- Documentação de projetos para facilitar manutenção e apresentação
+<div align="center">
 
----
+<img src="https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&logoColor=38bdf8" />
+<img src="https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css3&logoColor=38bdf8" />
+<img src="https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=38bdf8" />
+<img src="https://img.shields.io/badge/PHP-0f172a?style=for-the-badge&logo=php&logoColor=38bdf8" />
+<img src="https://img.shields.io/badge/Kotlin-0f172a?style=for-the-badge&logo=kotlin&logoColor=38bdf8" />
+<img src="https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=38bdf8" />
 
-## Projetos em destaque
-
-### [Versuo Site Blocker Privacy](https://github.com/Loira0/versuo-site-blocker-privacy)
-
-Projeto em HTML voltado para página de privacidade.  
-Boa oportunidade para evoluir estrutura visual, responsividade, acessibilidade e documentação.
-
-### [Perfil GitHub](https://github.com/Loira0/Loira0)
-
-Repositório usado para apresentar minha trajetória, stack, estudos e projetos.
+</div>
 
 ---
 
-## Próximos passos
+## Como eu trabalho
 
-- Publicar mais projetos completos com README próprio
-- Adicionar descrições claras nos repositórios
-- Incluir imagens, instruções de execução e tecnologias usadas em cada projeto
-- Criar projetos com front-end, back-end e banco de dados
-- Melhorar a frequência de commits e organização das branches
+- Escrevo código com foco em **organização, leitura e manutenção**
+- Uso **Git e GitHub** para versionamento e histórico de evolução
+- Busco entender o problema antes de implementar a solução
+- Tenho atenção a estrutura, responsividade e experiência do usuário
+- Evoluo meus conhecimentos com prática constante em projetos privados
+
+---
+
+## Áreas de interesse
+
+- Desenvolvimento **Full Stack**
+- Aplicações web responsivas
+- Back-end com PHP
+- Desenvolvimento com Kotlin
+- Automação de processos
+- Integrações e sistemas internos
+
+---
+
+## GitHub em números
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Loira0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38bdf8&icon_color=38bdf8&text_color=e5e7eb" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loira0&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38bdf8&text_color=e5e7eb" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=Loira0&theme=tokyonight&hide_border=true&background=020617&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" />
+
+</div>
 
 ---
 
@@ -74,7 +93,10 @@ Repositório usado para apresentar minha trajetória, stack, estudos e projetos.
 <div align="center">
 
 <a href="https://github.com/Loira0">
-  <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github" />
+</a>
+<a href="https://www.linkedin.com/in/gustavohlsouza/">
+  <img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=38bdf8" />
 </a>
 
 </div>
@@ -83,6 +105,8 @@ Repositório usado para apresentar minha trajetória, stack, estudos e projetos.
 
 <div align="center">
 
-<strong>Aberto a aprender, colaborar e construir soluções melhores a cada projeto.</strong>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0369a1,55:0f172a,100:020617&height=130&section=footer" />
+
+<strong>Aprendendo, construindo e evoluindo uma entrega por vez.</strong>
 
 </div>
