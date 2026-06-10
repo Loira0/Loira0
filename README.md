@@ -97,6 +97,25 @@ Desenvolver soluções inteligentes que simplifiquem processos complexos, aument
 
 ---
 
+## Projeto público em destaque
+
+### [Credit Recovery Dashboard](https://github.com/Loira0/credit-recovery-dashboard)
+
+Dashboard gerencial para **cobrança, recuperação de crédito, KPIs operacionais, performance de carteiras e análise por canais de contato**.
+
+Projeto criado com dados fictícios para demonstrar desenvolvimento de interfaces corporativas, visão de negócio, React, TypeScript, análise operacional e construção de painéis para tomada de decisão.
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/React-020617?style=for-the-badge&logo=react&logoColor=38bdf8" />
+<img src="https://img.shields.io/badge/TypeScript-020617?style=for-the-badge&logo=typescript&logoColor=38bdf8" />
+<img src="https://img.shields.io/badge/Dashboard-020617?style=for-the-badge&logo=googleanalytics&logoColor=38bdf8" />
+<img src="https://img.shields.io/badge/Credit%20Recovery-020617?style=for-the-badge&logo=databricks&logoColor=38bdf8" />
+
+</div>
+
+---
+
 ## Contato
 
 <div align="center">
