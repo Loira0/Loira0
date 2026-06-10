@@ -1,0 +1,150 @@
+<svg width="1000" height="430" viewBox="0 0 1000 430" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Gustavo Henrique profile showcase</title>
+  <desc id="desc">Animated professional developer showcase for GitHub README</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1000" y2="430" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617"/>
+      <stop offset="0.48" stop-color="#0f172a"/>
+      <stop offset="1" stop-color="#082f49"/>
+    </linearGradient>
+
+    <linearGradient id="accent" x1="120" y1="40" x2="880" y2="390" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38bdf8"/>
+      <stop offset="0.55" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#818cf8"/>
+    </linearGradient>
+
+    <linearGradient id="line" x1="0" y1="0" x2="1000" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38bdf8" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#38bdf8" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#38bdf8" stop-opacity="0"/>
+    </linearGradient>
+
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.219 0 0 0 0 0.741 0 0 0 0 0.973 0 0 0 0.7 0"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" stroke="#1e293b" stroke-width="1" opacity="0.6"/>
+    </pattern>
+
+    <style>
+      .title { font: 700 34px 'Segoe UI', Arial, sans-serif; fill: #f8fafc; }
+      .subtitle { font: 500 16px 'Segoe UI', Arial, sans-serif; fill: #cbd5e1; }
+      .label { font: 700 13px 'Segoe UI', Arial, sans-serif; fill: #38bdf8; letter-spacing: 1px; }
+      .text { font: 500 15px 'Segoe UI', Arial, sans-serif; fill: #e5e7eb; }
+      .small { font: 500 12px 'Segoe UI', Arial, sans-serif; fill: #94a3b8; }
+      .code { font: 500 14px 'Consolas', 'Fira Code', monospace; fill: #dbeafe; }
+      .keyword { fill: #38bdf8; }
+      .string { fill: #a7f3d0; }
+      .comment { fill: #94a3b8; }
+
+      .float-slow { animation: floatSlow 6s ease-in-out infinite; }
+      .float-fast { animation: floatFast 4.8s ease-in-out infinite; }
+      .pulse { animation: pulse 2.4s ease-in-out infinite; transform-origin: center; }
+      .slide { animation: slide 7s linear infinite; }
+      .blink { animation: blink 1.15s steps(2) infinite; }
+
+      @keyframes floatSlow {
+        0%, 100% { transform: translateY(0); }
+        50% { transform: translateY(-10px); }
+      }
+      @keyframes floatFast {
+        0%, 100% { transform: translateY(0); }
+        50% { transform: translateY(8px); }
+      }
+      @keyframes pulse {
+        0%, 100% { opacity: 0.55; transform: scale(1); }
+        50% { opacity: 1; transform: scale(1.08); }
+      }
+      @keyframes slide {
+        0% { transform: translateX(-1000px); }
+        100% { transform: translateX(1000px); }
+      }
+      @keyframes blink {
+        0%, 45% { opacity: 1; }
+        46%, 100% { opacity: 0; }
+      }
+    </style>
+  </defs>
+
+  <rect width="1000" height="430" rx="28" fill="url(#bg)"/>
+  <rect width="1000" height="430" rx="28" fill="url(#grid)" opacity="0.45"/>
+
+  <g opacity="0.55">
+    <circle class="float-slow" cx="850" cy="86" r="76" fill="#0369a1" opacity="0.22"/>
+    <circle class="float-fast" cx="142" cy="336" r="92" fill="#38bdf8" opacity="0.12"/>
+    <circle class="pulse" cx="772" cy="332" r="8" fill="#38bdf8"/>
+    <circle class="pulse" cx="206" cy="94" r="6" fill="#818cf8"/>
+  </g>
+
+  <g class="slide" opacity="0.4">
+    <rect y="72" width="1000" height="2" fill="url(#line)"/>
+    <rect y="352" width="1000" height="2" fill="url(#line)"/>
+  </g>
+
+  <g transform="translate(58 58)">
+    <text class="label" x="0" y="0">PRIVATE WORKFLOW / PUBLIC PRESENCE</text>
+    <text class="title" x="0" y="48">Full Stack Junior em evolucao</text>
+    <text class="subtitle" x="0" y="82">Projetos privados, estudo continuo e foco em codigo limpo.</text>
+
+    <g transform="translate(0 124)">
+      <rect width="258" height="58" rx="14" fill="#020617" stroke="#1e3a8a"/>
+      <circle cx="31" cy="29" r="9" fill="#38bdf8" filter="url(#glow)"/>
+      <text class="text" x="55" y="25">Web responsiva</text>
+      <text class="small" x="55" y="43">HTML, CSS, JavaScript</text>
+    </g>
+
+    <g transform="translate(0 198)">
+      <rect width="258" height="58" rx="14" fill="#020617" stroke="#1e3a8a"/>
+      <circle cx="31" cy="29" r="9" fill="#22d3ee" filter="url(#glow)"/>
+      <text class="text" x="55" y="25">Back-end e logica</text>
+      <text class="small" x="55" y="43">PHP, Kotlin, automacao</text>
+    </g>
+
+    <g transform="translate(0 272)">
+      <rect width="258" height="58" rx="14" fill="#020617" stroke="#1e3a8a"/>
+      <circle cx="31" cy="29" r="9" fill="#818cf8" filter="url(#glow)"/>
+      <text class="text" x="55" y="25">Versionamento</text>
+      <text class="small" x="55" y="43">Git, GitHub, organizacao</text>
+    </g>
+  </g>
+
+  <g transform="translate(392 64)" class="float-slow">
+    <rect width="548" height="302" rx="18" fill="#020617" stroke="#1e40af"/>
+    <rect width="548" height="42" rx="18" fill="#0f172a"/>
+    <circle cx="28" cy="21" r="6" fill="#ef4444"/>
+    <circle cx="50" cy="21" r="6" fill="#f59e0b"/>
+    <circle cx="72" cy="21" r="6" fill="#22c55e"/>
+    <text class="small" x="106" y="26">gustavo.profile.ts</text>
+
+    <g transform="translate(32 76)">
+      <text class="code" x="0" y="0"><tspan class="keyword">const</tspan> developer = {</text>
+      <text class="code" x="18" y="34">name: <tspan class="string">"Gustavo Henrique"</tspan>,</text>
+      <text class="code" x="18" y="68">role: <tspan class="string">"Full Stack Junior"</tspan>,</text>
+      <text class="code" x="18" y="102">stack: [<tspan class="string">"HTML"</tspan>, <tspan class="string">"CSS"</tspan>, <tspan class="string">"JS"</tspan>, <tspan class="string">"PHP"</tspan>, <tspan class="string">"Kotlin"</tspan>],</text>
+      <text class="code" x="18" y="136">focus: <tspan class="string">"clean code + real problems"</tspan>,</text>
+      <text class="code" x="18" y="170">projects: <tspan class="string">"mostly private"</tspan></text>
+      <text class="code" x="0" y="204">};<tspan class="blink">_</tspan></text>
+    </g>
+  </g>
+
+  <g transform="translate(386 382)">
+    <rect width="84" height="28" rx="14" fill="#0f172a" stroke="#38bdf8" opacity="0.9"/>
+    <text class="small" x="19" y="18">HTML</text>
+    <rect x="96" width="76" height="28" rx="14" fill="#0f172a" stroke="#38bdf8" opacity="0.9"/>
+    <text class="small" x="121" y="18">CSS</text>
+    <rect x="184" width="112" height="28" rx="14" fill="#0f172a" stroke="#38bdf8" opacity="0.9"/>
+    <text class="small" x="211" y="18">JavaScript</text>
+    <rect x="308" width="72" height="28" rx="14" fill="#0f172a" stroke="#38bdf8" opacity="0.9"/>
+    <text class="small" x="331" y="18">PHP</text>
+    <rect x="392" width="88" height="28" rx="14" fill="#0f172a" stroke="#38bdf8" opacity="0.9"/>
+    <text class="small" x="416" y="18">Kotlin</text>
+  </g>
+</svg>

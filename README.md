@@ -73,16 +73,11 @@ Tenho interesse em desenvolvimento web, back-end, automação, boas práticas co
 
 ---
 
-## GitHub em números
+## Vitrine profissional
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Loira0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38bdf8&icon_color=38bdf8&text_color=e5e7eb" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loira0&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38bdf8&text_color=e5e7eb" />
-
-<br />
-
-<img src="https://streak-stats.demolab.com?user=Loira0&theme=tokyonight&hide_border=true&background=020617&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" />
+<img width="100%" src="./assets/profile-showcase.svg" />
 
 </div>
 
