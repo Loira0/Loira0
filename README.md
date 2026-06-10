@@ -114,6 +114,21 @@ Projeto criado com dados fictícios para demonstrar desenvolvimento de interface
 
 </div>
 
+### [Automation Ops Center](https://github.com/Loira0/automation-ops-center)
+
+Painel operacional para **monitoramento de automações, filas de tarefas, produtividade, SLA, integrações corporativas e robôs/workers**.
+
+Projeto criado com dados fictícios para demonstrar construção de ferramentas internas, observabilidade operacional, automação de processos e dashboards executivos para tomada de decisão.
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/React-020617?style=for-the-badge&logo=react&logoColor=22d3ee" />
+<img src="https://img.shields.io/badge/TypeScript-020617?style=for-the-badge&logo=typescript&logoColor=22d3ee" />
+<img src="https://img.shields.io/badge/Automation-020617?style=for-the-badge&logo=n8n&logoColor=22d3ee" />
+<img src="https://img.shields.io/badge/Ops%20Dashboard-020617?style=for-the-badge&logo=datadog&logoColor=22d3ee" />
+
+</div>
+
 ---
 
 ## Contato
