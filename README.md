@@ -1,86 +1,80 @@
 <div align="center">
 
-<!-- HEADER CYBER DARK PREMIUM (ESTÁVEL) -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0f172a,100:020617&height=220&section=header&text=Gustavo&fontSize=42&fontColor=38bdf8&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20SaaS%20|%20Automation&descSize=18&descAlignY=65" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:111827,100:0f172a&height=180&section=header&text=Gustavo%20Henrique&fontSize=38&fontColor=38bdf8&animation=fadeIn&desc=Desenvolvedor%20Full%20Stack%20Junior&descSize=18&descAlignY=65" />
 
-<br/>
+<br />
 
-<img src="https://readme-typing-svg.herokuapp.com?size=22&color=38bdf8&center=true&vCenter=true&width=900&lines=Engenharia+de+software+orientada+a+produto;Sistemas+pensados+para+escala+e+manuten%C3%A7%C3%A3o;Decis%C3%B5es+t%C3%A9cnicas+com+impacto+real" />
+<img src="https://readme-typing-svg.herokuapp.com?size=20&color=38bdf8&center=true&vCenter=true&width=850&lines=Construindo+projetos+com+HTML%2C+CSS%2C+JavaScript%2C+PHP+e+Kotlin;Aprendendo+todos+os+dias+e+evoluindo+com+projetos+reais;Foco+em+c%C3%B3digo+organizado%2C+Git+e+boas+pr%C3%A1ticas" />
 
-<br/><br/>
+<br /><br />
 
-<img src="https://komarev.com/ghpvc/?username=Loira0&style=for-the-badge&color=020617" />
+<a href="https://github.com/Loira0">
+  <img src="https://komarev.com/ghpvc/?username=Loira0&style=for-the-badge&color=0f172a" />
+</a>
 
 </div>
 
 ---
 
-## Perfil Profissional
+## Sobre mim
 
-Desenvolvedor **Full Stack** com atuação em **engenharia de software aplicada ao negócio**.  
-Experiência na construção de **produtos digitais, SaaS e sistemas internos**, acompanhando todo o ciclo:
+Sou **Gustavo Henrique**, desenvolvedor **Full Stack Junior** em evolução constante.
 
-> arquitetura → implementação → evolução → manutenção
+Tenho interesse em construir aplicações web bem organizadas, com código claro, versionamento correto e atenção à experiência de quem usa o sistema. Atualmente estudo e pratico tecnologias como **HTML, CSS, JavaScript, PHP, Kotlin, Git e GitHub**.
 
-Foco em **código sustentável**, decisões técnicas bem fundamentadas e soluções pensadas para **ambiente de produção real**.
+Meu objetivo é crescer como desenvolvedor criando projetos cada vez mais completos, documentados e próximos de problemas reais.
 
 ---
 
-## Stack Técnica
+## Tecnologias
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,typescript,nodejs,python,tailwind,postgres,docker,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,kotlin,git,github&theme=dark" />
 
 </div>
 
 ---
 
-## Áreas de Atuação
+## O que estou desenvolvendo
 
-- Desenvolvimento **Full Stack (Front-end e Back-end)**
-- Arquitetura de **SaaS e sistemas multiusuário**
-- APIs REST com foco em **segurança, performance e escalabilidade**
-- Dashboards gerenciais e sistemas de apoio à decisão
-- Automação de processos e integrações entre sistemas
-- Evolução e refatoração de sistemas existentes
-
----
-
-## Forma de Trabalho
-
-- Código organizado e versionado
-- Estruturas pensadas para crescimento a longo prazo
-- Atenção constante à performance e confiabilidade
-- Padrões claros de arquitetura e manutenção
-- Comunicação técnica objetiva e transparente
+- Projetos web com **HTML, CSS e JavaScript**
+- Fundamentos de **back-end com PHP**
+- Estudos e práticas com **Kotlin**
+- Organização de repositórios com **Git e GitHub**
+- Documentação de projetos para facilitar manutenção e apresentação
 
 ---
 
-## Experiência Prática
+## Projetos em destaque
 
-- Sistemas utilizados por **usuários reais**
-- Projetos com regras de negócio complexas
-- Integrações com APIs externas e bancos de dados
-- Foco em redução de retrabalho e custo operacional
-- Mentalidade de produto, não apenas de feature
+### [Versuo Site Blocker Privacy](https://github.com/Loira0/versuo-site-blocker-privacy)
+
+Projeto em HTML voltado para página de privacidade.  
+Boa oportunidade para evoluir estrutura visual, responsividade, acessibilidade e documentação.
+
+### [Perfil GitHub](https://github.com/Loira0/Loira0)
+
+Repositório usado para apresentar minha trajetória, stack, estudos e projetos.
 
 ---
 
-## Contato Profissional
+## Próximos passos
+
+- Publicar mais projetos completos com README próprio
+- Adicionar descrições claras nos repositórios
+- Incluir imagens, instruções de execução e tecnologias usadas em cada projeto
+- Criar projetos com front-end, back-end e banco de dados
+- Melhorar a frequência de commits e organização das branches
+
+---
+
+## Contato
 
 <div align="center">
 
 <a href="https://github.com/Loira0">
-  <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github" />
-</a>
-
-<a href="https://www.linkedin.com">
-  <img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=38bdf8" />
-</a>
-
-<a href="mailto:seuemail@email.com">
-  <img src="https://img.shields.io/badge/E--mail-020617?style=for-the-badge&logo=microsoft-outlook&logoColor=38bdf8" />
+  <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github" />
 </a>
 
 </div>
@@ -89,8 +83,6 @@ Foco em **código sustentável**, decisões técnicas bem fundamentadas e soluç
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0f172a,100:020617&height=120&section=footer" />
-
-Aberto a oportunidades onde **engenharia, produto e impacto real** caminhem juntos.
+<strong>Aberto a aprender, colaborar e construir soluções melhores a cada projeto.</strong>
 
 </div>
